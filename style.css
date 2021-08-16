@@ -1,0 +1,57 @@
+
+/* navbar style */
+header{
+    padding-bottom: 70px;
+}
+.first-part{
+    background-color: #264653;
+}
+.nav-item a{
+    color: white!important;
+}
+.log-in{
+    background-color: #e04c32;
+    border: 0;
+    border-radius: 4px;
+}
+.log-in:hover{
+    background-color: rgb(236, 121, 39);
+}
+/* home page style */
+.home-btn{
+    background-color: #e04c32;
+    border: 0;
+    border-radius: 4px;
+}
+.home-btn:hover{
+    background-color: rgb(236, 121, 39);
+}
+
+.honda-h1{
+    color: white;
+    font-size: 48px;
+}
+.honda-p{
+    color: rgb(190, 190, 190);
+}
+
+/* bike section style */
+.bike-top-text p{
+    font-weight: 500;
+    color: #E76F51;
+}
+.bike-top-text{
+    font-weight: 500;
+}
+.underline{
+    width: 60px;
+    height: 1px;
+    background-color: #E76F51;
+    margin-top: -12px;
+}
+/* bike section style */
+span{
+    color: #E76F51;
+}
+
+/* question style */
